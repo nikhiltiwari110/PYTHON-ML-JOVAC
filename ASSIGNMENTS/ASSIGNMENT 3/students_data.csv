@@ -1,0 +1,6 @@
+Name,Age,Gender,Marks,Passed
+Alice,20,Female,85,True
+Bob,22,Male,78,False
+Carol,19,Female,92,True
+David,21,Male,74,False
+Eve,20,Female,88,True
